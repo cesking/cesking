@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cesking
+- 👋 Hi, I’m César Suárez
 - 👀 I’m interested in develop videogames, design dinamic webpages and create utility tools software.
 - 🌱 I’m currently learning web app developer.
 
