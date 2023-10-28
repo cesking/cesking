@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! My name is `César Suárez`, and I'm on a journey to become a web application developer. I'm also enthusiastic about cross-platform development, cybersecurity, and artificial intelligence.
+Welcome to my GitHub profile! My name is César Suárez, and I'm on a journey to become a web application developer. I'm also enthusiastic about cross-platform development, cybersecurity, and artificial intelligence.
 
 🌐 **Interests**:
 
